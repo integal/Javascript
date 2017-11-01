@@ -1,1 +1,1 @@
-window.alert('こんにちは！JavaScript！ /n今日も頑張りましょう！');
+window.alert('こんにちは！JavaScript！ \n今日も頑張りましょう！');
