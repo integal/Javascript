@@ -2,11 +2,11 @@ var ary = ['java','script','asp'];
 console.log(delete ary[0]);
 console.log(ary);
 
-var obj = [x:1,y:2];
+var obj = {x:1,y:2};
 console.log(delete obj.x);
 console.log(obj.x);
 
-var obj2 = [x:obj,y:2];
+var obj2 = {x:obj,y:2};
 console.log(delete obj2.x);
 console.log(obj);
 
